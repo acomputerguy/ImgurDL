@@ -1,0 +1,2 @@
+configuration: {file_path: xxx}
+credentials: {client_id: xxx, client_secret: xxx}

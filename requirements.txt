@@ -1,0 +1,6 @@
+httplib2==0.8
+hurry.filesize==0.9
+imgurpython==1.1.7
+PyYAML==4.2
+urllib3==1.24
+PyQt5==5.1.33

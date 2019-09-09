@@ -1,0 +1,36 @@
+.
+├── Documentation
+│   └── Images
+│       └── imgurDLScreenshotDownloadTab.png
+├── LICENSE.txt
+├── README.md
+├── requirements.txt
+├── src
+│   ├── classes
+│   │   ├── calls
+│   │   │   ├── creditsandcountdown.py
+│   │   │   ├── downloading.py
+│   │   │   ├── initializeimgur.py
+│   │   │   └── postDownloader.py
+│   │   ├── log
+│   │   │   └── loggingpost.py
+│   │   ├── read
+│   │   │   └── readconfigs.py
+│   │   └── tabs
+│   │       ├── tabaccountaction.py
+│   │       ├── tabactivitylog.py
+│   │       └── tabdownloadaction.py
+│   ├── config
+│   │   └── setup.yaml
+│   ├── gui.py
+│   ├── imgurDL.py
+│   ├── imgurDL.ui
+│   ├── logs
+│   │   ├── activity.log
+│   │   └── error.log
+│   └── media
+│       └── imgur_icon.png
+├── todo
+└── tree.txt
+
+11 directories, 22 files
