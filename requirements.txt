@@ -1,4 +1,4 @@
-httplib2==0.8
+httplib2==0.19.0
 hurry.filesize==0.9
 imgurpython==1.1.7
 PyYAML==4.2
